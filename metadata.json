@@ -1,0 +1,6 @@
+{
+  "name": "JEE SPRINT 2027",
+  "description": "Zero-login daily JEE Main 2027 practice platform with verified Physics, Chemistry, and Mathematics problems, realistic NTA mock tests, and spaced-repetition mistake revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
