@@ -1456,7 +1456,7 @@ export const CHEMISTRY_SEED_QUESTIONS: CandidateQuestionInput[] = [
     difficulty: 'Hard',
     questionType: 'MCQ',
     questionText:
-      'At its isoelectric point ($\text{pI} \\approx 6.0$), glycine in aqueous solution exists predominantly as:',
+      'At its isoelectric point ($\\text{pI} \\approx 6.0$), glycine in aqueous solution exists predominantly as:',
     options: [
       'A neutral non-ionic molecule $\\text{H}_2\\text{N--CH}_2\\text{--COOH}$',
       'A dipolar zwitterion $^+\\text{H}_3\\text{N--CH}_2\\text{--COO}^-$',

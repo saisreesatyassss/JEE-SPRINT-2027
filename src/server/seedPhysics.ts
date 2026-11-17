@@ -1378,7 +1378,7 @@ export const PHYSICS_SEED_QUESTIONS: CandidateQuestionInput[] = [
     difficulty: 'Hard',
     questionType: 'MCQ',
     questionText:
-      'Using the ground-state energy of hydrogen as $-13.6\\text{ eV}$, what is the ionization energy of a singly ionized helium ion ($\text{He}^+$) in its first excited state ($n=2$)?',
+      'Using the ground-state energy of hydrogen as $-13.6\\text{ eV}$, what is the ionization energy of a singly ionized helium ion ($\\text{He}^+$) in its first excited state ($n=2$)?',
     options: ['$13.6\\text{ eV}$', '$54.4\\text{ eV}$', '$3.4\\text{ eV}$', '$27.2\\text{ eV}$'],
     optionExplanations: [
       'Correct: $E_n = -13.6 \\frac{Z^2}{n^2}$. For $\\text{He}^+$ ($Z=2$) and $n=2$, $E_2 = -13.6 \\frac{4}{4} = -13.6\\text{ eV}$, so ionization energy is $+13.6\\text{ eV}$.',
